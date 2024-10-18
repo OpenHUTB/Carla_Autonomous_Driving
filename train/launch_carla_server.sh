@@ -9,7 +9,7 @@ else
 fi
 
 echo "Spawning server | port: $port | device: $device"
-$HOME/carla/CarlaUE4/Binaries/Linux/CarlaUE4-Linux-Shipping \
+$HOME/software/carla/CARLA_0.9.15/CarlaUE4/Binaries/Linux/CarlaUE4-Linux-Shipping \
     -quality-level=Epic \
     -RenderOffScreen \
     -nosound \

@@ -183,6 +183,9 @@ In the RL training there are two options for running the Carla server.
      [launch_carla_server.sh](train/launch_carla_server.sh) example script. You
      can modify it for your needs and use it (`carla_launch_script: "bash
      train/launch_carla_server.sh"`).
+```shell
+./train/launch_carla_server.sh 2000
+```
 
 # Results
 
